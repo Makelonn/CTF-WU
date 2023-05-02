@@ -1,4 +1,4 @@
-# Algo - Tri sélectif
+# Side Channel and Fault Attacks - Lapin Blanc
 
 ## Challenge description
 

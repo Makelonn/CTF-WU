@@ -1,4 +1,4 @@
-# Forensics - La Gazette Windows
+# Pwn - uid
 
 ## Challenge description
 

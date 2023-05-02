@@ -1,4 +1,4 @@
-# Algo - Tri sélectif
+# Algo - Tri très sélectif
 
 ## Challenge description
 
