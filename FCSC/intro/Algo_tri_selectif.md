@@ -2,7 +2,7 @@
 
 ## Challenge description
 
-![Challenge description](./imgs/desc_tri_selectif.PNG)
+![Challenge description](./imgs/desc_algo_tri_selecitf.PNG)
 
 ## Résolution
 

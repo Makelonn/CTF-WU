@@ -2,7 +2,7 @@
 
 ## Challenge description
 
-![Challenge description](./img/forensics_la_gazette_windows_description.png)
+![Challenge description](./imgs/desc_forensics_gazette_windows.PNG)
 
 ## Résolution
 

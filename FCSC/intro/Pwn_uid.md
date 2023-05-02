@@ -6,13 +6,13 @@
 
 ## Résolution
 
-On ouvre l'executable `uid`avec Ghidra, afin d'essayer de comprendre ce qu'il fait, ou de trouver des informations.
+On ouvre l'executable `uid` avec Ghidra, afin d'essayer de comprendre ce qu'il fait, ou de trouver des informations.
 
 On récupère la fonction main :
 
 ![main](./imgs/pwn_uid_main.PNG)
 
-On voit que la variable `local38`contient 44 charactère, et que `local_c`contient l'uid. Selon le code du main, si l'uid est 0 (donc la valeyur dans `local_c`est 0), alors le programme affiche le flag.
+On voit que la variable `local38` contient 44 charactère, et que `local_c` contient l'uid. Selon le code du main, si l'uid est 0 (donc la valeyur dans `local_c` est 0), alors le programme affiche le flag.
 
 On va donc chercher un moyen de modifier la valeur de `local_c` à 0.
 
