@@ -16,4 +16,22 @@
 
 ## Misc
 
-[Algo - Tri très selectif](./misc/Algo_tri_tres_selectif.md)
+[Algo - Tri très selectif](./misc/tri_tres_selectif.md)
+
+## Crypto
+
+[Elliptic Addventure](./crypto/elliptic_addventure.md)
+
+[Elliptic Addrenaline](./crypto/elliptic_addrenaline.md)
+
+## Hardware
+
+[Canflag](./hardware/canflag.md)
+
+## Side Channel and Fault Attack
+
+[Lapin Blanc](./side_channel_and_fault_attacks/lapin_blanc.md)
+
+## Web
+
+[ENISA Flag Store 1/2](./web/ENISA_flag_store_1_sur_2.md)
