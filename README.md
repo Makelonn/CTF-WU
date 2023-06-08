@@ -13,40 +13,40 @@ This repository contains the writeups for the CTFs I have participated in.
 
 ### Crypto
 
-[Crypto - Rot31](./FCSC/intro/crypto_rot31.md)
+[FCSC2023 - Crypto - Rot31](./FCSC/intro/crypto_rot31.md)
 
-[Elliptic Addventure](./FCSC/crypto/elliptic_addventure.md)
+[FCSC2023 - Elliptic Addventure](./FCSC/crypto/elliptic_addventure.md)
 
-[Elliptic Addrenaline](./FCSC/crypto/elliptic_addrenaline.md)
+[FCSC2023 - Elliptic Addrenaline](./FCSC/crypto/elliptic_addrenaline.md)
 
 ### Hardware
 
-[Canflag](./FCSC/hardware/canflag.md)
+[FCSC2023 - Canflag](./FCSC/hardware/canflag.md)
 
 ### Side Channel and Fault Attack
 
-[Lapin Blanc](./FCSC/side_channel_and_fault_attacks/lapin_blanc.md)
+[FCSC2023 - Lapin Blanc](./FCSC/side_channel_and_fault_attacks/lapin_blanc.md)
 
 ### Web
 
-[Web - T'es lent](./FCSC/intro/web_t_es_lent.md)
+[FCSC2023 - Web - T'es lent](./FCSC/intro/web_t_es_lent.md)
 
-[ENISA Flag Store 1/2](./FCSC/web/ENISA_flag_store_1_sur_2.md)
+[FCSC2023 - ENISA Flag Store 1/2](./FCSC/web/ENISA_flag_store_1_sur_2.md)
 
 ### Reverse
 
-[Reverse - Aaarg](./FCSC/intro/reverse_aaarg.md)
+[FCSC2023 - Reverse - Aaarg](./FCSC/intro/reverse_aaarg.md)
 
 ### Pwn
 
-[Pwn - uid](./FCSC/intro/Pwn_uid.md)
+[FCSC2023 - Pwn - uid](./FCSC/intro/Pwn_uid.md)
 
 ### Forensics
 
-[Forensics - La Gazette de windows](./FCSC/intro/Forensics_la_gazette_windows.md)
+[FCSC2023 - Forensics - La Gazette de windows](./FCSC/intro/Forensics_la_gazette_windows.md)
 
 ### Algo
 
-[Algo - Tri selectif](./FCSC/intro/Algo_tri_selectif.md)
+[FCSC2023 - Algo - Tri selectif](./FCSC/intro/Algo_tri_selectif.md)
 
-[Algo - Tri très selectif](./FCSC/misc/tri_tres_selectif.md)
+[FCSC2023 - Algo - Tri très selectif](./FCSC/misc/tri_tres_selectif.md)
