@@ -6,9 +6,9 @@ This repository contains the writeups for the CTFs I have participated in.
 
 | CTF | Team/Solo | Rank | Points | Writeups |
 |:------:|:------:|:------:|:------:|:------:|
-| Midnight CTF | Team | 62/351 | 972 | None :( |
-| France Cybersecurity Challenge | Solo | 233/1364 | 1215 | [WUs FCSC](./FCSC/README.md) |
-
+| Midnight CTF (2023)| Team | 62/351 | 972 | None :( |
+| France Cybersecurity Challenge (2023) | Solo | 233/1364 | 1215 | [WUs FCSC](./FCSC/README.md) |
+| 404 CTF (2023) | Solo | 70/2335 | 23048 | [WUs 404CTF](./404CTF_2023/README.md) |
 ## Index
 
 ### Crypto
