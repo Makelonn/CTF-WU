@@ -34,7 +34,7 @@ TODOs :
 
 TODOs :
 
-- L'inondation
+- L'innondation
 - Des mots, des mots, des mots
 
 ## Radio-fréquences
