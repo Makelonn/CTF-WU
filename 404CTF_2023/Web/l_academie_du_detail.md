@@ -1,4 +1,4 @@
-# Category - Challenge name
+# Web - L'académie du détail
 
 ## Challenge description
 

@@ -2,10 +2,13 @@
 
 ## Forensics
 
-TODOs :
+DONE : 
 
 - Pêche aux livres
 - Le Mysère du roman d'amour
+
+TODOs :
+
 - Les mystères du cluster de la Comtesse de Ségur [1/2]
 
 ## Cloud
@@ -17,9 +20,12 @@ TODOs :
 
 ## Crypto
 
-TODOs :
+DONE :
 
 - Recette
+
+TODOs :
+
 - Dessine moi une courbe elliptique
 - Le jour de l'espace
 - ASCON Marchombre
@@ -88,7 +94,7 @@ TODOs :
 
 ## Web
 
-TODOs :
+DONE :
 
 - Le loup et le renard
 - L'académie du détail

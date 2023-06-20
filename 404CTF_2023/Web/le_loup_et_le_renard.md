@@ -1,4 +1,4 @@
-# Category - Challenge name
+# Web - Le loup et le renard
 
 ## Challenge description
 
