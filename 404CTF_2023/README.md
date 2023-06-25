@@ -4,8 +4,8 @@
 
 DONE : 
 
-- Pêche aux livres
-- Le Mysère du roman d'amour
+- [Pêche aux livres](./Forensics/peche_aux_livres.md)
+- [Le Mysère du roman d'amour](./Forensics/le_mystere_du_roman_d'amour.md)
 
 TODOs :
 
@@ -15,14 +15,14 @@ TODOs :
 
 DONE :
 
-- Le sot
-- Le cluster de Madame Bovary
+- [Le sot](./Cloud/le_sot.md)
+- [Le cluster de Madame Bovary](./Cloud/le_cluster_de_madame_bovary.md)
 
 ## Crypto
 
 DONE :
 
-- Recette
+- [Recette](./Crypto/recette.md)
 
 TODOs :
 
@@ -38,10 +38,10 @@ TODOs :
 
 ## Programmation
 
-TODOs :
+DONE :
 
-- L'innondation
-- Des mots, des mots, des mots
+- [L'innondation](./Programmation/l_innondation.md)
+- [Des mots, des mots, des mots](./Programmation/des_mots_des_mots_des_mots.md)
 
 ## Radio-fréquences
 
@@ -96,8 +96,8 @@ TODOs :
 
 DONE :
 
-- Le loup et le renard
-- L'académie du détail
+- [Le loup et le renard](./Web/le_loup_et_le_renard.md)
+- [L'académie du détail](./Web/l_academie_du_detail.md)
 
 ## Web3
 
