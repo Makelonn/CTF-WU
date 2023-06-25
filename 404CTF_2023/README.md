@@ -13,7 +13,7 @@ TODOs :
 
 ## Cloud
 
-TODOs :
+DONE :
 
 - Le sot
 - Le cluster de Madame Bovary
