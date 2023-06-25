@@ -8,6 +8,9 @@
 
 On se connecte avec `nc`, et on voit qu'on doit compter les rhinos. On peut le faire avec un `grep`, mais j'aime me compliquer la vie donc j'ai fais un script en python.
 
+<details>
+<summary> Le script python </summary>
+
 ```python
 
 # nc challenges.france-cybersecurity-challenge.fr 2350
@@ -93,6 +96,9 @@ recv_bis(client)
 print( 'Deconnexion.')
 client.close()
 ```
+
+</details>
+
 
 ![Flag](./imgs/fin_innondation.PNG)
 
