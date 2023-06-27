@@ -2,8 +2,6 @@
 
 ## Forensics
 
-DONE : 
-
 - [Pêche aux livres](./Forensics/peche_aux_livres.md)
 - [Le Mysère du roman d'amour](./Forensics/le_mystere_du_roman_d'amour.md)
 
@@ -13,32 +11,21 @@ TODOs :
 
 ## Cloud
 
-DONE :
-
 - [Le sot](./Cloud/le_sot.md)
 - [Le cluster de Madame Bovary](./Cloud/le_cluster_de_madame_bovary.md)
 
 ## Crypto
 
-DONE :
-
 - [Recette](./Crypto/recette.md)
-
-TODOs :
-
-- Dessine moi une courbe elliptique
-- Le jour de l'espace
-- ASCON Marchombre
+- [Dessine moi une courbe elliptique](./Crypto/dessine_moi_une_courbe_elliptique.md)
+- [Le jour de l'espace](./Crypto/le_jour_de_l_espace.md)
+- [ASCON Marchombre](./Crypto/ascon_marchombre.md)
 
 ## Divers
 
-TODOs :
-
-- Désirée Dubois
+- [Désirée Dubois](./Divers/desiree_dubois.md)
 
 ## Programmation
-
-DONE :
 
 - [L'innondation](./Programmation/l_innondation.md)
 - [Des mots, des mots, des mots](./Programmation/des_mots_des_mots_des_mots.md)
