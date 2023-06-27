@@ -12,6 +12,9 @@ En cherchant sur internet, on trouve :
 
 On trouve aussi une librairie Python, donc on peut faire un script pour déchiffrer le message. Etant donné que j'ai eu des soucis avec la librairie, je l'ai copié dans un fichier `ascon2.py`. Les deux scripts sont dans le dossier `./src/ASCON_marchombre`.
 
+<details>
+<summary> Le script Python </summary>
+
 ```python
 import ascon2
 
@@ -29,5 +32,7 @@ print(text)
 
 # 404CTF{V3r5_l4_lum1\xe8r3.} -> 404CTF{V3r5_l4_lum1èr3.}
 ```
+
+</details><br>
 
 Le flag est donc `404CTF{V3r5_l4_lum1èr3.}`, à la fin d'un super poème Marchombre.
